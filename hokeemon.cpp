@@ -458,7 +458,6 @@ int main() {
 void greeting(){
     cout << "Welcome to the Hokeemon Game!\n";
     cout << "by Taha Zeeshan\n";
-    cout << "March 13, 2022\n";
     cout << "In this game you can create up to 10 Hokeemon\n";
     cout << "each one has a species, element, and technique.\n";
     cout << "When playing with one you must keep its boredom\n";
