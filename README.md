@@ -60,14 +60,6 @@ Created by **Taha Zeeshan**. This project is an interactive game designed to sho
 
 Welcome to the **Monopoly Simulation**, crafted by **Taha Zeeshan**. This program is a lively, randomized simulation of the classic game, tracking how often each board position is landed on over an impressive 10,000 turns. With vibrant randomness and an intricate setup, this simulation provides insight into the frequency of different positions—like "Go" and "Jail"—creating a wonderfully rich picture of the game’s mechanics.
 
-## Table of Contents
-- [Features](#features)
-- [Simulation Rules](#simulation-rules)
-- [Getting Started](#getting-started)
-- [Code Structure](#code-structure)
-- [Core Functions](#core-functions)
-- [Credits](#credits)
-
 ## Features
 - **Randomized Rolls and Cards**: Every turn, a virtual dice roll and card draw replicate the core random elements of Monopoly.
 - **Position Tracking**: The program tracks how often each space on the Monopoly board is landed on, providing fascinating insights into game statistics.
@@ -104,14 +96,6 @@ By **Taha Zeeshan**. This project captures the charm of Monopoly while beautiful
 # Rock-Paper-Scissors Game
 
 Welcome to the **Rock-Paper-Scissors Game**, brought to you by **Taha Zeeshan**! This classic game, implemented in C++, allows you to play multiple rounds against the computer, tracking wins, losses, and draws until you decide to quit. Enjoy competing with the computer and see if you can outwit its random choices!
-
-## Table of Contents
-- [Features](#features)
-- [How to Play](#how-to-play)
-- [Getting Started](#getting-started)
-- [Code Structure](#code-structure)
-- [Core Functions](#core-functions)
-- [Credits](#credits)
 
 ## Features
 - **User Choice Menu**: Select between Rock, Paper, Scissors, or Quit to end the game.
